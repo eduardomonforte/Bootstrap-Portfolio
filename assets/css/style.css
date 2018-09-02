@@ -1,0 +1,45 @@
+/*general stuff*/
+
+body {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background: url(../images/leaves-pattern.png)
+}
+
+.row {
+    /* border: 1px solid #000000; */
+}
+
+/*header stuff*/
+
+#logo {
+    /* border: 1px solid #000000; */
+    background: #4aaaa5;
+    text-align: center;
+}
+
+#logo a {
+    color: #ffffff;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 30px;
+    line-height: 90px;
+}
+
+#whiterow {
+    background: #ffffff;
+}
+
+#navitems {
+    /* border: 1px solid #000000; */
+    text-align: center;
+}
+
+#navitems a {
+    line-height: 90px;
+    color: #999999;
+    text-decoration: none;
+    margin-left: 15px;
+    float: right;
+    font-size: 18px;
+}
